@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: 'assets/images/.jpg'
+cover: 'assets/images/post-8.jpg'
 navigation: True
 title: Semalam di Warung Makan
 logo: 'assets/images/icon.png'
